@@ -1,14 +1,15 @@
 @import './sass/utils/variables';
-@import './sass/components/backdrop';
-@import './sass/components/common';
-@import './sass/components/footer';
 @import './sass/components/hero';
 @import './sass/components/navigation';
 @import './sass/components/page-header';
+@import './sass/components/section-title';
+@import './sass/components/section-third';
+@import './sass/components/backdrop';
 @import './sass/components/section-portfolio';
 @import './sass/components/section-team_social-list';
 @import './sass/components/section-team';
-@import './sass/components/section-third';
-@import './sass/components/section-title';
 @import './sass/components/section';
+@import './sass/components/footer';
+
+@import './sass/components/common';
 @import './sass/utils/placeholders';
