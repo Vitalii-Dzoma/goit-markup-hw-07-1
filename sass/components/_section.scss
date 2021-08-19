@@ -26,8 +26,16 @@
   &:focus .section__logo {
     fill: var(--accent-color);
   }
+  &:hover,
+  &:focus {
+    border: 1px solid var(--accent-color);
+  }
 }
 
+.section__link:hover,
+.section__link:focus {
+  border: 1px solid var(--accent-color);
+}
 .section__item:not(:last-child) {
   margin-right: 30px;
 }
